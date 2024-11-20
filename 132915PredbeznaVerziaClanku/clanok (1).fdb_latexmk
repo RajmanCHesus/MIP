@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex clanok (1)"] 1730665837.40039 "clanok (1).aux" "clanok (1).bbl" "clanok (1)" 1730665839.06564 0
-  "./zdroje.bib" 1730665836 4508 c378e25dff3317ecd4ba01b9f559e918 ""
+["bibtex clanok (1)"] 0 "clanok (1).aux" "clanok (1).bbl" "clanok (1)" 0 0
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/abbrv.bst" 1291864736 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "clanok (1).aux" 1730665838 2846 4d79a674a5fcb24f824704e9bfe3d3df "pdflatex"
+  "clanok (1).aux" 0 -1 0 "pdflatex"
+  "zdroje.bib" 0 -1 0 ""
   (generated)
   "clanok (1).bbl"
   "clanok (1).blg"
   (rewritten before read)
-["pdflatex"] 1730665837.80795 "c:/Users/Daniel/Development/MIP/project1/clanok (1).tex" "clanok (1).pdf" "clanok (1)" 1730665839.06623 0
+["pdflatex"] 1730666008.79805 "c:/Users/Daniel/Development/MIP/project1/132915PredbeznaVerziaClanku/clanok (1).tex" "clanok (1).pdf" "clanok (1)" 1730666010.08763 0
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729767985 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1728154070 7284 d1167b641b0e9a9024566a61167e91a5 ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1728154063 11548 00a6037330397ccff4846deba1bf1c2c ""
@@ -21,7 +21,6 @@
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csr8.pk" 1728154069 13340 f2b24d615c0a1ae11b0ffb217aa39fe0 ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csr9.pk" 1728154082 14856 edec8494ee7fcbd42c5f10d86d7953a7 ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/cssl10.pk" 1728154067 20212 a206e387060019181355d67d7b668ac6 ""
-  "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csti10.pk" 1728154072 22272 378c9e0039321ee35473188e34b9301a ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/cstt9.pk" 1728154080 11584 af8392299856ba30a2c4f31c49a4acc2 ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi720/csbx12.pk" 1728154078 27708 7c9dea776636f7cc806577c0316e4ea2 ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728153881 24225518 37cfa1e4cf8cabe43b1d00347308a405 ""
@@ -48,7 +47,6 @@
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csr8.tfm" 867746828 2368 f4f9f06a2b86f71b5f351721c3e60919 ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csr9.tfm" 867746830 2376 de3119feecfe0dae00b14f6e9033497b ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/cssl10.tfm" 867746834 2604 017cb3ae2597ec48c1aa5eb8f746f130 ""
-  "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csti10.tfm" 867746908 2496 c5e31063f5cc63ce79f4be11f247ab75 ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/cstt9.tfm" 867746932 1276 c0504c18a6a7a61858690795c8c0b15a ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/tex/cslatex/base/il2cmr.fd" 1030520654 2233 ed1615a25411b6b9d990c84a33d9881b ""
@@ -103,10 +101,10 @@
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Daniel/Development/MIP/project1/clanok (1).tex" 1730665833 11820 047863425511f9c96c8636fb11538576 ""
-  "clanok (1).aux" 1730665838 2846 4d79a674a5fcb24f824704e9bfe3d3df "pdflatex"
-  "clanok (1).bbl" 1730665837 2392 703e75aabe7e1c2c2eafd3a186ea624b "bibtex clanok (1)"
-  "clanok (1).out" 1730665838 3541 d3d0be590de6f359eeee02ea5191de0d "pdflatex"
+  "c:/Users/Daniel/Development/MIP/project1/132915PredbeznaVerziaClanku/clanok (1).tex" 1730665833 11820 047863425511f9c96c8636fb11538576 ""
+  "clanok (1).aux" 1730666009 2677 6ead0cd463723a706f350b29cd113fa0 "pdflatex"
+  "clanok (1).bbl" 0 -1 0 "bibtex clanok (1)"
+  "clanok (1).out" 1730666009 3541 d3d0be590de6f359eeee02ea5191de0d "pdflatex"
   "clanok (1).tex" 1730665833 11820 047863425511f9c96c8636fb11538576 ""
   (generated)
   "clanok (1).aux"

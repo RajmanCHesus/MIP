@@ -1,6 +1,6 @@
-PWD c:\Users\Daniel\Development\MIP\project1
+PWD c:\Users\Daniel\Development\MIP\project1\clanko
 INPUT C:\Users\Daniel\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Daniel\Development\MIP\project1\clanok (1).tex
+INPUT c:\Users\Daniel\Development\MIP\project1\clanko\clanok (1).tex
 OUTPUT clanok (1).log
 INPUT C:\Users\Daniel\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Daniel\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

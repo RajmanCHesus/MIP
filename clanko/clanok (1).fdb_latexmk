@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex clanok (1)"] 1730665837.40039 "clanok (1).aux" "clanok (1).bbl" "clanok (1)" 1730665839.06564 0
-  "./zdroje.bib" 1730665836 4508 c378e25dff3317ecd4ba01b9f559e918 ""
+["bibtex clanok (1)"] 1730664969.94397 "clanok (1).aux" "clanok (1).bbl" "clanok (1)" 1730664971.37601 0
+  "./zdroje.bib" 1730664373 3900 a423c0bb8459d54a8220c07faf7b992b ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/abbrv.bst" 1291864736 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "clanok (1).aux" 1730665838 2846 4d79a674a5fcb24f824704e9bfe3d3df "pdflatex"
+  "clanok (1).aux" 1730664970 2806 f767e1b17b2fe5839fba8b94cbf7f887 "pdflatex"
   (generated)
   "clanok (1).bbl"
   "clanok (1).blg"
   (rewritten before read)
-["pdflatex"] 1730665837.80795 "c:/Users/Daniel/Development/MIP/project1/clanok (1).tex" "clanok (1).pdf" "clanok (1)" 1730665839.06623 0
+["pdflatex"] 1730664970.20183 "c:/Users/Daniel/Development/MIP/project1/clanko/clanok (1).tex" "clanok (1).pdf" "clanok (1)" 1730664971.37642 0
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729767985 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1728154070 7284 d1167b641b0e9a9024566a61167e91a5 ""
   "C:/Users/Daniel/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1728154063 11548 00a6037330397ccff4846deba1bf1c2c ""
@@ -103,11 +103,11 @@
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Daniel/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Daniel/Development/MIP/project1/clanok (1).tex" 1730665833 11820 047863425511f9c96c8636fb11538576 ""
-  "clanok (1).aux" 1730665838 2846 4d79a674a5fcb24f824704e9bfe3d3df "pdflatex"
-  "clanok (1).bbl" 1730665837 2392 703e75aabe7e1c2c2eafd3a186ea624b "bibtex clanok (1)"
-  "clanok (1).out" 1730665838 3541 d3d0be590de6f359eeee02ea5191de0d "pdflatex"
-  "clanok (1).tex" 1730665833 11820 047863425511f9c96c8636fb11538576 ""
+  "c:/Users/Daniel/Development/MIP/project1/clanko/clanok (1).tex" 1730664810 11806 3632feb47b83ae1ec24e26ed17247c56 ""
+  "clanok (1).aux" 1730664970 2806 f767e1b17b2fe5839fba8b94cbf7f887 "pdflatex"
+  "clanok (1).bbl" 1730664970 2063 f542113282963e8b30c661f1798ce9f0 "bibtex clanok (1)"
+  "clanok (1).out" 1730664970 3541 d3d0be590de6f359eeee02ea5191de0d "pdflatex"
+  "clanok (1).tex" 1730664810 11806 3632feb47b83ae1ec24e26ed17247c56 ""
   (generated)
   "clanok (1).aux"
   "clanok (1).log"

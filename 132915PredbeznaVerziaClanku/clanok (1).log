@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.5)  3 NOV 2024 21:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.5)  3 NOV 2024 21:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Daniel/Development/MIP/project1/clanok (1).tex"
-(c:/Users/Daniel/Development/MIP/project1/clanok (1).tex
+**"c:/Users/Daniel/Development/MIP/project1/132915PredbeznaVerziaClanku/clanok (1).tex"
+(c:/Users/Daniel/Development/MIP/project1/132915PredbeznaVerziaClanku/clanok (1).tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\Daniel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -263,26 +263,63 @@ Overfull \hbox (6.38794pt too wide) in paragraph at lines 67--67
 []\IL2/cmr/bx/n/14.4 ©truktúra re-klam-nej plat-formy spo-lo-ènosti Go-
  []
 
-[2] [3] [4] (clanok (1).bbl) [5] (clanok (1).aux)
+
+LaTeX Warning: Citation `9163447' on page 2 undefined on input line 70.
+
+
+LaTeX Warning: Citation `6480027' on page 2 undefined on input line 70.
+
+[2]
+
+LaTeX Warning: Citation `8847128' on page 3 undefined on input line 104.
+
+
+LaTeX Warning: Citation `7273289' on page 3 undefined on input line 113.
+
+
+LaTeX Warning: Citation `10574622' on page 3 undefined on input line 118.
+
+
+LaTeX Warning: Citation `7368607' on page 3 undefined on input line 127.
+
+[3]
+
+LaTeX Warning: Citation `8526633' on page 4 undefined on input line 136.
+
+
+LaTeX Warning: Citation `7737411' on page 4 undefined on input line 136.
+
+[4]
+No file "clanok (1)".bbl.
+
+Overfull \hbox (4.71628pt too wide) has occurred while \output is active
+\IL2/cmr/m/sl/10 7 OSVEDÈENÉ POSTUPY NA OPTIMALIZÁCIU SLU®BY GOOGLE ADS \IL2/cmr/m/n/10 5
+ []
+
+[5] (clanok (1).aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `"clanok (1)".out' has not changed.
 (rerunfilecheck)             Checksum: D3D0BE590DE6F359EEEE02EA5191DE0D;3541.
  ) 
 Here is how much of TeX's memory you used:
- 10138 strings out of 474486
- 161223 string characters out of 5743283
+ 10117 strings out of 474486
+ 161123 string characters out of 5743283
  1937542 words of memory out of 5000000
- 32266 multiletter control sequences out of 15000+600000
- 570542 words of font info for 65 fonts, out of 8000000 for 9000
+ 32258 multiletter control sequences out of 15000+600000
+ 569942 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,594b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on "clanok (1).pdf" (5 pages, 182903 bytes).
+ 75i,7n,79p,622b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Daniel\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
+Output written on "clanok (1).pdf" (5 pages, 159176 bytes).
 PDF statistics:
- 609 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 531 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
